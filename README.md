@@ -1,2 +1,2 @@
 # lstd
-Ludum Dare Standart Library Generator
+Ludum Dare Standard Library Generator
